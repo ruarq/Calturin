@@ -1,0 +1,268 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Run version="1.7.0">
+  <GameIcon />
+  <GameName>Calturin</GameName>
+  <CategoryName>Any%</CategoryName>
+  <Metadata>
+    <Run id="" />
+    <Platform usesEmulator="False">PC</Platform>
+    <Region>
+    </Region>
+    <Variables>
+      <Variable name="Version">1.2c</Variable>
+    </Variables>
+  </Metadata>
+  <Offset>-00:00:20</Offset>
+  <AttemptCount>16</AttemptCount>
+  <AttemptHistory>
+    <Attempt id="1" started="09/08/2021 22:40:52" isStartedSynced="False" ended="09/08/2021 22:40:53" isEndedSynced="False" />
+    <Attempt id="2" started="09/08/2021 22:40:55" isStartedSynced="False" ended="09/08/2021 22:40:56" isEndedSynced="False" />
+    <Attempt id="3" started="09/08/2021 22:40:58" isStartedSynced="False" ended="09/08/2021 22:40:59" isEndedSynced="False" />
+    <Attempt id="4" started="09/13/2021 21:04:12" isStartedSynced="False" ended="09/13/2021 21:04:46" isEndedSynced="False" />
+    <Attempt id="5" started="09/13/2021 21:08:47" isStartedSynced="False" ended="09/13/2021 21:08:50" isEndedSynced="False" />
+    <Attempt id="6" started="09/13/2021 21:28:47" isStartedSynced="False" ended="09/13/2021 21:49:29" isEndedSynced="False">
+      <RealTime>00:20:22.2290000</RealTime>
+    </Attempt>
+    <Attempt id="7" started="09/13/2021 21:53:26" isStartedSynced="False" ended="09/13/2021 21:53:34" isEndedSynced="False" />
+    <Attempt id="8" started="09/13/2021 21:53:53" isStartedSynced="False" ended="09/13/2021 21:53:57" isEndedSynced="False" />
+    <Attempt id="9" started="09/13/2021 21:54:41" isStartedSynced="False" ended="09/13/2021 21:55:03" isEndedSynced="False" />
+    <Attempt id="10" started="09/13/2021 21:58:54" isStartedSynced="False" ended="09/13/2021 21:59:48" isEndedSynced="False" />
+    <Attempt id="11" started="09/13/2021 22:00:06" isStartedSynced="False" ended="09/13/2021 22:00:12" isEndedSynced="False" />
+    <Attempt id="12" started="09/13/2021 22:00:23" isStartedSynced="False" ended="09/13/2021 22:21:50" isEndedSynced="False" />
+    <Attempt id="13" started="09/13/2021 22:22:14" isStartedSynced="False" ended="09/13/2021 22:22:20" isEndedSynced="False" />
+    <Attempt id="14" started="09/13/2021 22:22:37" isStartedSynced="False" ended="09/13/2021 22:22:38" isEndedSynced="False" />
+    <Attempt id="15" started="09/13/2021 22:22:43" isStartedSynced="False" ended="09/13/2021 22:30:53" isEndedSynced="False" />
+  </AttemptHistory>
+  <Segments>
+    <Segment>
+      <Name>Defeat Arche</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best">
+          <RealTime>00:01:51.4270000</RealTime>
+        </SplitTime>
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime>00:01:45.7620000</RealTime>
+      </BestSegmentTime>
+      <SegmentHistory>
+        <Time id="6">
+          <RealTime>00:01:51.4270000</RealTime>
+        </Time>
+        <Time id="12">
+          <RealTime>00:01:45.7620000</RealTime>
+        </Time>
+        <Time id="15">
+          <RealTime>00:02:02.7850000</RealTime>
+        </Time>
+      </SegmentHistory>
+    </Segment>
+    <Segment>
+      <Name>Finish Path of Pain</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best">
+          <RealTime>00:04:19.8760000</RealTime>
+        </SplitTime>
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime>00:01:40.7500000</RealTime>
+      </BestSegmentTime>
+      <SegmentHistory>
+        <Time id="15">
+          <RealTime>00:01:42.3370000</RealTime>
+        </Time>
+        <Time id="12">
+          <RealTime>00:01:40.7500000</RealTime>
+        </Time>
+        <Time id="6">
+          <RealTime>00:02:28.4490000</RealTime>
+        </Time>
+      </SegmentHistory>
+    </Segment>
+    <Segment>
+      <Name>Defeat Moloch</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best">
+          <RealTime>00:05:08.4110000</RealTime>
+        </SplitTime>
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime>00:00:48.5350000</RealTime>
+      </BestSegmentTime>
+      <SegmentHistory>
+        <Time id="6">
+          <RealTime>00:00:48.5350000</RealTime>
+        </Time>
+        <Time id="12">
+          <RealTime>00:00:53.1150000</RealTime>
+        </Time>
+        <Time id="15">
+          <RealTime>00:01:00.8170000</RealTime>
+        </Time>
+      </SegmentHistory>
+    </Segment>
+    <Segment>
+      <Name>Defeat The Ossarium</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best">
+          <RealTime>00:07:19.6910000</RealTime>
+        </SplitTime>
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime>00:01:02.4910000</RealTime>
+      </BestSegmentTime>
+      <SegmentHistory>
+        <Time id="6">
+          <RealTime>00:02:11.2800000</RealTime>
+        </Time>
+        <Time id="12">
+          <RealTime>00:01:09.8750000</RealTime>
+        </Time>
+        <Time id="15">
+          <RealTime>00:01:02.4910000</RealTime>
+        </Time>
+      </SegmentHistory>
+    </Segment>
+    <Segment>
+      <Name>Finish Sphere of the True Path</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best">
+          <RealTime>00:09:23.0450000</RealTime>
+        </SplitTime>
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime>00:01:59.2160000</RealTime>
+      </BestSegmentTime>
+      <SegmentHistory>
+        <Time id="12">
+          <RealTime>00:01:59.2160000</RealTime>
+        </Time>
+        <Time id="6">
+          <RealTime>00:02:03.3540000</RealTime>
+        </Time>
+      </SegmentHistory>
+    </Segment>
+    <Segment>
+      <Name>Defeat Topeth</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best">
+          <RealTime>00:10:36.2340000</RealTime>
+        </SplitTime>
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime>00:00:46.2340000</RealTime>
+      </BestSegmentTime>
+      <SegmentHistory>
+        <Time id="6">
+          <RealTime>00:01:13.1890000</RealTime>
+        </Time>
+        <Time id="12">
+          <RealTime>00:00:46.2340000</RealTime>
+        </Time>
+      </SegmentHistory>
+    </Segment>
+    <Segment>
+      <Name>Defeat Togon</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best">
+          <RealTime>00:11:45.9880000</RealTime>
+        </SplitTime>
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime>00:01:09.7540000</RealTime>
+      </BestSegmentTime>
+      <SegmentHistory>
+        <Time id="6">
+          <RealTime>00:01:09.7540000</RealTime>
+        </Time>
+        <Time id="12">
+          <RealTime>00:01:12.8600000</RealTime>
+        </Time>
+      </SegmentHistory>
+    </Segment>
+    <Segment>
+      <Name>Finish Swamp of Pain</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best">
+          <RealTime>00:13:38.5510000</RealTime>
+        </SplitTime>
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime>00:01:52.5630000</RealTime>
+      </BestSegmentTime>
+      <SegmentHistory>
+        <Time id="12">
+          <RealTime>00:03:06.9570000</RealTime>
+        </Time>
+        <Time id="6">
+          <RealTime>00:01:52.5630000</RealTime>
+        </Time>
+      </SegmentHistory>
+    </Segment>
+    <Segment>
+      <Name>Defeat Sir Lanval</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best">
+          <RealTime>00:14:41.4660000</RealTime>
+        </SplitTime>
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime>00:01:02.9150000</RealTime>
+      </BestSegmentTime>
+      <SegmentHistory>
+        <Time id="6">
+          <RealTime>00:01:02.9150000</RealTime>
+        </Time>
+        <Time id="12">
+          <RealTime>00:02:56.7000000</RealTime>
+        </Time>
+      </SegmentHistory>
+    </Segment>
+    <Segment>
+      <Name>Defeat Legion</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best">
+          <RealTime>00:17:41.5470000</RealTime>
+        </SplitTime>
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime>00:03:00.0810000</RealTime>
+      </BestSegmentTime>
+      <SegmentHistory>
+        <Time id="6">
+          <RealTime>00:03:00.0810000</RealTime>
+        </Time>
+        <Time id="12">
+          <RealTime>00:03:41.3290000</RealTime>
+        </Time>
+      </SegmentHistory>
+    </Segment>
+    <Segment>
+      <Name>Defeat Exekias</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best">
+          <RealTime>00:20:22.2290000</RealTime>
+        </SplitTime>
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime>00:02:40.6820000</RealTime>
+      </BestSegmentTime>
+      <SegmentHistory>
+        <Time id="6">
+          <RealTime>00:02:40.6820000</RealTime>
+        </Time>
+      </SegmentHistory>
+    </Segment>
+  </Segments>
+  <AutoSplitterSettings />
+</Run>
