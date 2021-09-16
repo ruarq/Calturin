@@ -1,4 +1,4 @@
-state("Calturin", "1.2c")
+state("Calturin")
 {
 	// GameManager variables
 	// Just for reference: byte8 GameManager : "UnityPlayer.dll", 0x01768380, 0x88, 0xE70, 0x210, 0xF8, 0x78, 0x38;
@@ -7,7 +7,7 @@ state("Calturin", "1.2c")
 	bool newGame			: "UnityPlayer.dll", 0x01768380, 0x88, 0xE70, 0x210, 0xF8, 0x78, 0x38, 0x324;
 	
 	// PlayerScript variables
-	bool normalExekiasDefeated : "UnityPlayer.dll", 0x01768380, 0x88, 0xE70, 0x210, 0xF8, 0x78, 0x38, 0x20, 0x459;
+	// bool normalExekiasDefeated : "UnityPlayer.dll", 0x01768380, 0x88, 0xE70, 0x210, 0xF8, 0x78, 0x38, 0x20, 0x459;
 
 	// ExekiasScript variables
 	// pointer to the exekiasTakeDamage; nullptr when not fighting Exekias
@@ -53,11 +53,11 @@ split
 			current.bossesDefeated == 9.0f ||
 
 			// Legion
-			current.bossesDefeated == 10.0f ||
-
-			// Exekias
-			(current.exekiasDead && !old.exekiasDead);
+			current.bossesDefeated == 10.0f;
 	}
+
+	// Exekias
+	return current.bossesDefeated == 10.0f && current.exekiasDead;
 }
 
 reset
