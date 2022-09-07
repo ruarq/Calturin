@@ -1,0 +1,6 @@
+*.lsl
+Release
+Debug
+x86
+x64
+.vs
